@@ -1,2 +1,2 @@
-# VirtuoDecor
-All work regarding smartphone application final project Virtual Decor can be found here.
+# HomeDecor
+All work regarding the smartphone application's final project Virtual Decor can be found here.
