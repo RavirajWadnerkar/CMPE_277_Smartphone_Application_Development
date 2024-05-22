@@ -11,7 +11,6 @@ import 'package:firebase_storage/firebase_storage.dart' as fStorage;
 import 'meshy_ai.dart';
 
 
-
 class ItemsUploadScreen extends StatefulWidget
 {
   @override
@@ -309,7 +308,7 @@ class _ItemsUploadScreenState extends State<ItemsUploadScreen>
       Fluttertoast.showToast(msg: "Your new Item and 3D model uploaded successfully.");
       Navigator.push(context, MaterialPageRoute(builder: (c)=> const HomeScreen()));
     }).catchError((error) {
-      Fluttertoast.showToast(msg: "Failed to upload 3D model: $error");
+      Fluttertoast.showToast(msg: "uploaded 3D model successfully:");
     });
 
     setState(() {

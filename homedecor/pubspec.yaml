@@ -44,6 +44,7 @@ dependencies:
   augmented_reality_plugin: ^4.0.1
   arkit_plugin: ^1.0.7
   model_viewer_plus: ^1.7.2
+  firebase_auth: ^4.19.4
 
 dev_dependencies:
   flutter_test:

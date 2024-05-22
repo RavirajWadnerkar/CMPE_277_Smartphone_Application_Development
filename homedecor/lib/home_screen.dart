@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen>
     return Scaffold(
       backgroundColor: Colors.black,
       appBar: AppBar(
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.black, foregroundColor: Colors.white,
         title: const Text(
           "AR Virtuo Decor",
           style: TextStyle(

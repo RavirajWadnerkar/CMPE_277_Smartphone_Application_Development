@@ -12,9 +12,6 @@ class ItemDetailsScreen extends StatefulWidget
   State<ItemDetailsScreen> createState() => _ItemDetailsScreenState();
 }
 
-
-
-
 class _ItemDetailsScreenState extends State<ItemDetailsScreen>
 {
   @override
