@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459310481971",
+    "project_id": "homedecor-97090",
+    "storage_bucket": "homedecor-97090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459310481971:android:eb7e21442daf412bae1946",
+        "android_client_info": {
+          "package_name": "com.ravirajwadnerkar.homedecor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOw7E0i3dnJKv_XkgDfbY0DLA2uIOtsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
