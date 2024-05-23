@@ -1,6 +1,6 @@
 # HomeDecor
 
-***Anonymous***
+***Team Anonymous***
 
 - [Raviraj Tushar Wadnerkar](https://github.com/RavirajWadnerkar) 
 - [Manikanta Nynala](https://github.com/manikantanynala97)
