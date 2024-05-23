@@ -19,13 +19,12 @@ VirtuoDecor aims to democratize interior design, making it accessible to a wider
 
 ## Features
 
-- Upload, Share, and Delete files securely.
+- Marketplace for sellers.
 - Single Sign-On with Google integration.
-- File Analytics
-- Document Summarization using OpenAI.
-- Real time File Editing
-- File types conversion (pdf to docs)
-- Real time notifications
+- Image conversion using MeshyAI API.
+- Image background removal using the online tool RemoveBG API.
+- Real-time buy and sell
+- 2D to 3D conversion of images
 
 ## Cloud Features
 
@@ -44,7 +43,7 @@ Must have
 - Android Studio
 - java-17
 - Android phone
-- 
+  
 ### Frontend Set up
 
 Connect your phone to Android Studio and install the application on your Android phone.
